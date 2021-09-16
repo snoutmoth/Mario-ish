@@ -7,6 +7,7 @@ TagManager:
   - Fire
   - NextLevel
   - Key
+  - Start
   layers:
   - Default
   - TransparentFX
